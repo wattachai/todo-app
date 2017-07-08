@@ -1,0 +1,14 @@
+{
+  "name": "wattachai-todoapp",
+  "version": "1.0.0",
+  "description": "todo-app assignment coded by Wattachai Kanawitoon",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  },
+  "author": "Wattachai Kanawitoon",
+  "license": "ISC"
+}
